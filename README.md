@@ -1,7 +1,7 @@
 # WastageBin
 Wastage Bin is an Android app for managing cleaning of wastages around the city.
 There are 3 roles in the app namely: 
-a) Detector(who detects and resolves wastage)
+a) Detector(who detects and reports wastage)
 b) Resolver(Who resolves wastage) 
 c) Financier(who sponsors cleaning of wastage)
 
